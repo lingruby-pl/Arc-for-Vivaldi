@@ -44,10 +44,10 @@ Now,
 | Background: #e7e8eb              | Background: #2f343f              | Background: #f5f6f7              |
 | Foreground: #7a8b94              | Foreground: #d3dae3              | Foreground: #7a8b94              |
 | Highlight: #5294e2               | Highlight: #5294e2               | Highlight: #5294e2               |
-| Accent: #f9f9fa                  | Accent: #383c4a                  | Accent: #2f343f                  |
+| Accent: #f9f9fa                  | Accent: #424959                  | Accent: #2f343f                  |
 | [ ] Apply Accent Color to Window | [ ] Apply Accent Color to Window | [x] Apply Accent Color to Window |
 | [x] Transparent Tabs             | [x] Transparent Tabs             | [x] Transparent Tabs             |
-| Corner Rounding: 2px             | Corner Rounding: 2px             | Corner Rounding: 2px             |
+| Corner Rounding: 2px             | Corner Rounding: 0px             | Corner Rounding: 2px             |
 
 ## Screenshots:
 
